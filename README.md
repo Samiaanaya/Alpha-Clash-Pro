@@ -1,5 +1,5 @@
 ## ⌨️ Alpha Clash Pro
-[Live Link](https://samiaanaya.github.io/Alpha-Clash-Pro/)
+-[Live Link](https://samiaanaya.github.io/Alpha-Clash-Pro/)
 **Unleash your keyboard Kung Fu!**
 
 A fast-paced browser-based typing game where a random alphabet appears on screen and you must press the correct key as quickly as possible. Train your fingers, sharpen your reflexes, and climb your own high score!
